@@ -1,0 +1,6 @@
+*.o
+sysdep.hd
+tokdefs.h
+f2c.t
+f2c
+xsum
